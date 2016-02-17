@@ -2,15 +2,22 @@
   "name": "tachyons-display-verbose",
   "version": "1.0.0",
   "style": "tachyons-display-verbose.css",
-  "homepage": "http://github.com/tachyons-css/tachyons-display",
+  "homepage": "http://github.com/tachyons-css/tachyons-display-verbose",
   "description": "Performance based css module.",
-  "keywords": [],
+  "keywords": [
+    "postcss",
+    "display",
+    "css",
+    "design",
+    "ui"
+
+  ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/tachyons-css/tachyons-display.git"
+    "url": "http://github.com/tachyons-css/tachyons-display-verbose.git"
   },
   "bugs": {
-    "url": "https://github.com/tachyons-css/tachyons-display/issues",
+    "url": "https://github.com/tachyons-css/tachyons-display-verbose/issues",
     "email": "hi@mrmrs.cc"
   },
   "author": {
