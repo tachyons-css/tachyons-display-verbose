@@ -1,0 +1,28 @@
+{
+  "name": "tachyons-display-verbose",
+  "version": "1.0.0",
+  "style": "tachyons-display-verbose.css",
+  "homepage": "http://github.com/tachyons-css/tachyons-display",
+  "description": "Performance based css module.",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/tachyons-css/tachyons-display.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tachyons-css/tachyons-display/issues",
+    "email": "hi@mrmrs.cc"
+  },
+  "author": {
+    "name": "mrmrs",
+    "email": "hi@mrmrs.cc",
+    "url": "http://mrmrs.cc"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "tachyons-cli": "^0.3.1"
+  },
+  "scripts": {
+    "start": "tachyons src/tachyons-display-verbose.css > css/tachyons-display-verbose.css && tachyons src/tachyons-display-verbose.css --minify > css/tachyons-display-verbose.min.css && tachyons src/tachyons-display-verbose.css --generate-docs --package=../../package.json > readme.md"
+  }
+}
