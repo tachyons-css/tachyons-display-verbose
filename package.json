@@ -1,6 +1,6 @@
 {
   "name": "tachyons-display-verbose",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "style": "tachyons-display-verbose.css",
   "homepage": "http://github.com/tachyons-css/tachyons-display-verbose",
   "description": "Performance based css module.",
